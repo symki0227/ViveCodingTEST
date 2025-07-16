@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ViveCodingTEST/static/css/main.930b5f36.css",
-    "main.js": "/ViveCodingTEST/static/js/main.ad46f95a.js",
+    "main.js": "/ViveCodingTEST/static/js/main.ccb8337e.js",
     "static/media/profile.png": "/ViveCodingTEST/static/media/profile.00961ee41a644b170045.png",
     "static/media/profile.webp": "/ViveCodingTEST/static/media/profile.e9da822024f2f4ec9f98.webp",
     "index.html": "/ViveCodingTEST/index.html",
     "main.930b5f36.css.map": "/ViveCodingTEST/static/css/main.930b5f36.css.map",
-    "main.ad46f95a.js.map": "/ViveCodingTEST/static/js/main.ad46f95a.js.map"
+    "main.ccb8337e.js.map": "/ViveCodingTEST/static/js/main.ccb8337e.js.map"
   },
   "entrypoints": [
     "static/css/main.930b5f36.css",
-    "static/js/main.ad46f95a.js"
+    "static/js/main.ccb8337e.js"
   ]
 }
